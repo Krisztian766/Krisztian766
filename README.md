@@ -9,7 +9,6 @@ Python/JS developer with a focus on automation and security tooling. I build sma
 - **[cowrie-honeypot](https://github.com/Krisztian766/cowrie-honeypot)** — Cowrie SSH/Telnet honeypot on a small VPS, with custom Telegram alerting, VirusTotal lookups, and automated dropper-chain payload capture. 300k+ login attempts and 60+ real malware samples collected and documented.
 - **[html-campaign-mailer](https://github.com/Krisztian766/html-campaign-mailer)** — Template-driven Python SMTP mailer: external HTML/JSON templates, per-recipient CSV personalization, dry-run mode, logging.
 - **[awesome-cybersecurity-resources](https://github.com/Krisztian766/awesome-cybersecurity-resources)** — Curated list of OSINT, pentesting, bug bounty, CTF, and IT security tools.
-- **[Arduino_Projekt_Digitalis_Technika_II](https://github.com/Krisztian766/Arduino_Projekt_Digitalis_Technika_II)** — Arduino Uno alarm system: PIR sensor, 4x4 keypad, I2C LCD, piezo siren.
 
 #### Stack
 
